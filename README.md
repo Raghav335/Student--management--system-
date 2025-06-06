@@ -1,3 +1,20 @@
+# 🎓 Student Management System
+
+A web-based application to manage student data. Built with HTML, CSS, and JavaScript.
+
+## ✨ Features
+- Add student
+- Edit student
+- Delete student
+- Display student list
+
+## 🔗 Live Demo
+[Click here to view](https://Raghav 335.github.io/student-management/)
+
+## 📂 GitHub Repository
+[GitHub Link](https://github.com/Raghav335/Student--management--system-)
+
+
 # Student--management--system-
 Student Management System – Theory
 
